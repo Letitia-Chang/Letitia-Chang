@@ -10,11 +10,13 @@ Applied AI engineer. I build AI agents and RAG systems and take them from the cu
 
 | Project | What it is |
 | --- | --- |
-| [knowing-doing-gap](https://github.com/Letitia-Chang/knowing-doing-gap) | Black-box adaptation of a tool-necessity study on Qwen2.5-7B: 50% need/action mismatch, cut to 27% with a one-line prompt |
+| [knowing-doing-gap](https://github.com/Letitia-Chang/knowing-doing-gap) | Does an LLM know when it needs a tool? Behavioral study (50% need/action mismatch on Qwen2.5-7B, cut to 27% with a one-line prompt) plus hidden-state probes (necessity decodable at AUROC 0.90) |
+| [journalist-dossiers](https://github.com/Letitia-Chang/journalist-dossiers) | Press Dossier: open-source PR research tool with evidence-backed journalist fit scores and Gmail pitch drafts ([live demo](https://press-dossier.vercel.app)) |
 | [omni-retail-ai](https://github.com/Letitia-Chang/omni-retail-ai) | Retail marketing copilot: customer segmentation, XGBoost purchase intent, campaign ranking, RAG ad copy with Claude |
 | [buzz-teammate-access](https://github.com/Letitia-Chang/buzz-teammate-access) | Buzz plugin that lets approved teammates use shared AI agents, with rate limits and guardrails |
 | [cerm-wildfire-evacuation-tool](https://github.com/Letitia-Chang/cerm-wildfire-evacuation-tool) | WiDS Datathon 2026 team project: ranks census tracts for wildfire evacuation help, backtested on the 2018 Camp Fire |
 | [bird_migration](https://github.com/Letitia-Chang/bird_migration) | Bird migration as a network: does losing light-polluted stopovers fragment it more than losing random ones? |
+| [WiFOP](https://github.com/Letitia-Chang/WiFOP) | Next-day wildfire ignition on a 5 km California grid: found and fixed label leakage in a team project, then rebuilt it (top 10% of flagged cell-days catch 75% of fires) |
 
 ### Tools I use most
 
