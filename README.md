@@ -10,7 +10,7 @@ Applied AI engineer. I build AI agents and RAG systems and take them from the cu
 
 | Project | What it is |
 | --- | --- |
-| [knowing-doing-gap](https://github.com/Letitia-Chang/knowing-doing-gap) | Does an LLM know when it needs a tool? Qwen2.5-7B called tools on 28 of 30 questions (15 of 17 unneeded); a rewritten prompt cut the mismatch from 50.0% to 26.7%; linear probes decode tool need at AUROC 0.84 on factual questions vs 0.66 from words alone |
+| [knowing-doing-gap](https://github.com/Letitia-Chang/knowing-doing-gap) | When does an LLM know it needs a tool? Adapted a recent paper's test to Qwen2.5-7B: it called tools on 28 of 30 questions (15 of the 17 it could answer unaided); a rewritten system prompt cut the mismatch from 50.0% to 26.7%, at a cost in accuracy (93.3% to 83.3%). Linear probes: tool need is decodable on factual questions at AUROC 0.84, vs 0.66 from the words alone |
 | [journalist-dossiers](https://github.com/Letitia-Chang/journalist-dossiers) | Press Dossier: open-source PR research tool with evidence-backed journalist fit scores and Gmail pitch drafts ([live demo](https://press-dossier.vercel.app)) |
 | [omni-retail-ai](https://github.com/Letitia-Chang/omni-retail-ai) | Retail marketing copilot: customer segmentation, XGBoost purchase intent, campaign ranking, RAG ad copy with Claude |
 | [buzz-teammate-access](https://github.com/Letitia-Chang/buzz-teammate-access) | Buzz plugin that lets approved teammates use shared AI agents, with rate limits and guardrails |
