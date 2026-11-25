@@ -16,7 +16,7 @@ Applied AI engineer. I build AI agents and RAG systems and take them from the cu
 | [buzz-teammate-access](https://github.com/Letitia-Chang/buzz-teammate-access) | Buzz plugin that lets approved teammates use shared AI agents, with rate limits and guardrails |
 | [cerm-wildfire-evacuation-tool](https://github.com/Letitia-Chang/cerm-wildfire-evacuation-tool) | WiDS Datathon 2026 team project: ranks census tracts for wildfire evacuation help, backtested on the 2018 Camp Fire |
 | [bird_migration](https://github.com/Letitia-Chang/bird_migration) | Bird migration as a network: light-polluted stopovers look structurally important, until compared with random sites of the same bird activity ([live app](https://bird-migration-tau.vercel.app)) |
-| [WiFOP](https://github.com/Letitia-Chang/WiFOP) | Next-day wildfire ignition on a 5 km California grid: found and fixed label leakage in a team project, then rebuilt it (top 10% of flagged cell-days catch 75% of fires) |
+| [WiFOP](https://github.com/Letitia-Chang/WiFOP) | Next-day wildfire ignition on a 5 km California grid: rebuilt a team's 26M-row pipeline, fixing 7 leakage and labeling bugs; best model ROC-AUC 0.93, yet a per-cell historical fire-rate baseline still wins on PR-AUC, so most of the skill is location, not timing |
 
 ### Tools I use most
 
